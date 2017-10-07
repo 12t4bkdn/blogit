@@ -1,4 +1,4 @@
-<h1>[XDebug]<br />
+<h1><span style="font-size:14px">[XDebug]<br />
 zend_extension = &quot;C:\xampp\php\ext\php_xdebug-2.5.5-7.0-vc14.dll&quot;<br />
 xdebug.remote_autostart = 1<br />
 xdebug.profiler_append = 0<br />
@@ -14,4 +14,4 @@ xdebug.remote_port = 9000<br />
 xdebug.trace_output_dir = &quot;c:\xampp\tmp&quot;<br />
 ; 3600 (1 hour), 36000 = 10h<br />
 xdebug.remote_cookie_expire_time = 36000<br />
-xdebug.remote_mode = jit</h1>
+xdebug.remote_mode = jit</span></h1>
