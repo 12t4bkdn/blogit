@@ -16,7 +16,8 @@
 <code>~/.ssh/id_rsa_activehacker
 ~/.ssh/id_rsa_jexchan
 </code></pre>
-
+<p>Then run<p>
+<pre>eval `ssh-agent -s`</pre>
 <p>then, add these two keys as following</p>
 
 <pre>
