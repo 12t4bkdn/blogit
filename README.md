@@ -1,3 +1,7 @@
+<p><a href="https://developers.google.com/drive/v3/web/quickstart/php">https://developers.google.com/drive/v3/web/quickstart/php</a></p>
+<hr>
+<p><a href="https://adminlte.io/themes/AdminLTE/index.html">https://adminlte.io/themes/AdminLTE/index.html</a></p>
+<hr>
 <p><a href="https://camo.githubusercontent.com/4d0a2038b0d86483d6e73992d57601b13002a54c/687474703a2f2f692e696d6775722e636f6d2f47797663756e4a2e706e67" target="_blank"><img alt="Web Developer Roadmap" src="https://camo.githubusercontent.com/4d0a2038b0d86483d6e73992d57601b13002a54c/687474703a2f2f692e696d6775722e636f6d2f47797663756e4a2e706e67" /></a></p>
 
 <blockquote>
