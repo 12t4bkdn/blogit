@@ -342,4 +342,21 @@ async function main() {
    })
 }</code></pre>
 
+<pre>
+<code>    async  function  getABC () {
+      let A = await getValueA(); // getValueA takes 2 second to finish
+      let B = await getValueB(); // getValueB takes 4 second to finish
+      let C = await getValueC(); // getValueC takes 3 second to finish
+
+      return A*B*C;
+    }</code></pre>
+
+<pre>
+<code> async  function  getABC () {
+      // Promise.all() allows us to send all requests at the same time. 
+      let results = await Promise.all([ getValueA, getValueB, getValueC ]); 
+
+      return results.reduce((total,value) =&gt; total * value);
+    }</code></pre>
+
 <p>&nbsp;</p>
