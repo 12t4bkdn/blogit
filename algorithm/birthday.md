@@ -5,7 +5,8 @@
 from datetime import datetime
 
 now = datetime.now()
-birthday_str = "05/01/2000"
+birthday_str = input("Enter birthday in format dd/mm/yyyy")
+#birthday_str = "05/01/2000"
 birthday = datetime.strptime(birthday_str, '%d/%m/%Y')
 current_day = (now.year, now.month, now.day)
 birth_day = (birthday.year + 18, birthday.month, birthday.day)
