@@ -48,3 +48,13 @@ def leastCommonDenominator(denominators):
     return sorted(list(set([x for x in document])))</code></pre>
 
 <p>&nbsp;</p>
+
+<pre>
+<code>from itertools import *
+
+def cyclicName(name, n):
+    gen = iter(name)
+    res = [next(gen) for _ in range(n)]
+    return ''.join(res)</code></pre>
+
+<p>&nbsp;</p>
