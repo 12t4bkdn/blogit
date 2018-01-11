@@ -1,3 +1,4 @@
+<a href="https://sdk.ckeditor.com/samples/codesnippet.html">https://sdk.ckeditor.com/samples/codesnippet.html </a>
 <p><a href="https://developers.google.com/drive/v3/web/quickstart/php">https://developers.google.com/drive/v3/web/quickstart/php</a></p>
 <hr>
 <p><a href="https://adminlte.io/themes/AdminLTE/index.html">https://adminlte.io/themes/AdminLTE/index.html</a></p>
