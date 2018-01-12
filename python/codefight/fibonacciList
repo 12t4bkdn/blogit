@@ -1,0 +1,2 @@
+def fibonacciList(n):
+    return [[0] * x for x in reduce(lambda x, y: x + [x[y-1]+ x[y-2]], range(2,n), [0, 1])]
